@@ -1,9 +1,8 @@
-package com.igor.projects.scraping.service.impl;
+package com.igor.projects.scraping.modules.buson.service.impl;
 
-import com.igor.projects.scraping.dto.request.BusonRequest;
-import com.igor.projects.scraping.dto.response.BusonResponse;
-import com.igor.projects.scraping.service.BusonService;
-import org.jsoup.HttpStatusException;
+import com.igor.projects.scraping.modules.buson.dto.request.BusonRequest;
+import com.igor.projects.scraping.modules.buson.dto.response.BusonResponse;
+import com.igor.projects.scraping.modules.buson.service.BusonService;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;

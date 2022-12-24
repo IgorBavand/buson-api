@@ -1,8 +1,8 @@
-package com.igor.projects.scraping.controller;
+package com.igor.projects.scraping.modules.buson.controller;
 
-import com.igor.projects.scraping.dto.request.BusonRequest;
-import com.igor.projects.scraping.dto.response.BusonResponse;
-import com.igor.projects.scraping.service.BusonService;
+import com.igor.projects.scraping.modules.buson.dto.request.BusonRequest;
+import com.igor.projects.scraping.modules.buson.dto.response.BusonResponse;
+import com.igor.projects.scraping.modules.buson.service.BusonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

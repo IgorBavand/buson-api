@@ -1,4 +1,4 @@
-package com.igor.projects.scraping.dto.response;
+package com.igor.projects.scraping.modules.buson.dto.response;
 
 
 import lombok.Builder;

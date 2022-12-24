@@ -1,4 +1,4 @@
-package com.igor.projects.scraping.dto.request;
+package com.igor.projects.scraping.modules.buson.dto.request;
 
 import lombok.Data;
 import org.springframework.format.annotation.DateTimeFormat;
