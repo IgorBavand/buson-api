@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+  scraping:
+    container_name: scraping
+    build: .
+    image: scraping:latest
+    tty: false
+    ports:
+      - "3304:3304"
