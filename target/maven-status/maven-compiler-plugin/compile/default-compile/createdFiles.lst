@@ -1,0 +1,10 @@
+com/igor/projects/scraping/modules/buson/service/BusonService.class
+com/igor/projects/scraping/modules/buson/dto/response/BusonResponse$BusonResponseBuilder.class
+com/igor/projects/scraping/config/CorsFilter$1.class
+com/igor/projects/scraping/modules/buson/dto/request/BusonRequest$BusonRequestBuilder.class
+com/igor/projects/scraping/modules/buson/controller/BusonController.class
+com/igor/projects/scraping/ScrapingApplication.class
+com/igor/projects/scraping/modules/buson/dto/request/BusonRequest.class
+com/igor/projects/scraping/modules/buson/service/impl/BusonServiceImpl.class
+com/igor/projects/scraping/modules/buson/dto/response/BusonResponse.class
+com/igor/projects/scraping/config/CorsFilter.class
